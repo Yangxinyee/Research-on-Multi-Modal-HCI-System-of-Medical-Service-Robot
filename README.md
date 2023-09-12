@@ -73,12 +73,12 @@ The basic principle is as follows: 5s is used as a fixed window Length (that is,
 
 <table>
     <tr>
-    <td ><center><img src="https://i.imgur.com/OecZ3ga.gif" width="120%"></center></td>
-    <td ><center><img src="https://i.imgur.com/Pzyn6OE.gif" width="120%"></center></td>
+    <td ><center><img src="https://i.imgur.com/vBkyv4u.gif" width="120%"></center></td>
+    <td ><center><img src="https://i.imgur.com/llGWAJO.gif" width="120%"></center></td>
     </tr>
     <tr>
-    <td><center><img src="https://i.imgur.com/uXJMaKt.gif" width="120%"></center></td>
-    <td ><center><img src="https://i.imgur.com/DHcgpWr.gif" width="120%"></center></td>
+    <td ><center><img src="https://i.imgur.com/H81YhMj.gif" width="120%"></center></td>
+    <td ><center><img src="https://i.imgur.com/Ku8BQkQ.gif" width="120%"></center></td>
     </tr>
 </table>
 
@@ -207,12 +207,12 @@ SlowFast is a video recognition paper at Facebook's 2019 ICCV. In this paper, a 
 
 <table>
     <tr>
-    <td><center><img src="https://i.imgur.com/u6khp9D.gif" width="120%"></center></td>
-    <td><center><img src="https://i.imgur.com/jo243cO.gif" width="120%"></center></td>
+    <td><center><img src="https://i.imgur.com/9TVvvqx.gif" width="120%"></center></td>
+    <td><center><img src="https://i.imgur.com/UrB0DOP.gif" width="120%"></center></td>
     </tr>
     <tr>
-    <td><center><img src="https://i.imgur.com/dOVo3lW.gif" width="120%"></center></td>
-    <td><center><img src="https://i.imgur.com/hpPzBKm.gif" width="120%"></center></td>
+    <td><center><img src="https://i.imgur.com/HCRgCJq.gif" width="120%"></center></td>
+    <td><center><img src="https://i.imgur.com/05fgeWw.gif" width="120%"></center></td>
     </tr>
 </table>
 
