@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8ca2c730-7549-46c1-9ce8-47dfb65f0977" name="c3d">
+        <fileTransfer rootFolder="/raid/YangxinyeData" accessType="SFTP" host="172.18.41.152" port="22" sshConfigId="2bd4f0dc-7205-441a-9ca0-54b179490970" sshConfig="yangxinye@172.18.41.152:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
