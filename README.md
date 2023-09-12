@@ -164,7 +164,7 @@ Use the mmaction2 toolkit and fine-tune training using the pre-trained model. Th
     </tr>
 </table>
 
-<div align=center><img src="https://i.imgur.com/7o1mnrx.png" width="70%"></div>
+<div align=center><img src="https://i.imgur.com/7o1mnrx.png" width="60%"></div>
 
 ***There's room for improvement......***
 
@@ -174,7 +174,7 @@ Use the mmaction2 toolkit and fine-tune training using the pre-trained model. Th
 
 An input video is divided into K segments, and a snippet (several frames of images superimposed) is randomly sampled from its corresponding segment. Different segments of the category score fusion. This is a video-level prediction. The predictions of all models are then combined to produce the final prediction.
 
-<img src="https://i.imgur.com/UGkBQgH.png" width="90%">
+<img src="https://i.imgur.com/UGkBQgH.png" width="80%">
 
 **Results Visualization:**
 
@@ -189,7 +189,7 @@ At the same time, the heat map is drawn, and it is found that each category is m
     </tr>
 </table>
 
-<div align=center><img src="https://i.imgur.com/s72Y1Fp.png" width="60%"></div>
+<div align=center><img src="https://i.imgur.com/s72Y1Fp.png" width="50%"></div>
 
 #### SlowFast
 
@@ -227,11 +227,11 @@ SlowFast is a video recognition paper at Facebook's 2019 ICCV. In this paper, a 
 
 This task mainly focuses on replicating the algorithms based on graph convolutional neural network and reinforcement learning in the paper, and for this project, adjusting the experimental environment and adding the model distillation method to simulate the crowd navigation and obstacle avoidance of robots.
 
-<div align=center><img src="https://i.imgur.com/SY8OSZU.png" width="50%"></div>
+<div align=center><img src="https://i.imgur.com/SY8OSZU.png" width="40%"></div>
 
-<div align=center><img src="https://i.imgur.com/fZRB2xh.png" width="50%"></div>
+<div align=center><img src="https://i.imgur.com/fZRB2xh.png" width="40%"></div>
 
-<div align=center><img src="https://i.imgur.com/jXVp3Ns.png" width="90%"></div>
+<div align=center><img src="https://i.imgur.com/jXVp3Ns.png" width="80%"></div>
 
 The entire model is based on GCN (Graph Convolutional Neural Network) and RL (reinforcement learning), using GCN to calculate the human state and predict the direction, using reinforcement learning to optimize robot decisions, and combining the two to develop efficient robot navigation in crowds.
 
@@ -257,9 +257,9 @@ Overall, making the robot visible to pedestrians had a higher success rate, whil
 
 **Preliminary experimental results:**
 
-<img src="https://i.imgur.com/UiNCPPk.png" width="80%">
+<img src="https://i.imgur.com/UiNCPPk.png" width="70%">
 
-<img src="https://i.imgur.com/LmrERuC.png" width="80%">
+<img src="https://i.imgur.com/LmrERuC.png" width="70%">
 
 
 
@@ -300,4 +300,4 @@ Specific performance:
 
 https://youtu.be/MbLl9JUXypQ
 
-[<img src="https://i.imgur.com/7ToyGK4.png" width="70%">](https://youtu.be/MbLl9JUXypQ)
+[<img src="https://i.imgur.com/7ToyGK4.png" width="80%">](https://youtu.be/MbLl9JUXypQ)
