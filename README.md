@@ -207,12 +207,12 @@ SlowFast is a video recognition paper at Facebook's 2019 ICCV. In this paper, a 
 
 <table>
     <tr>
-    <td><center><img src="https://i.imgur.com/V0sflay.gif" width="120%"></center></td>
-    <td><center><img src="https://i.imgur.com/AplnnXo.gif" width="120%"></center></td>
+    <td><center><img src="https://i.imgur.com/u6khp9D.gif" width="120%"></center></td>
+    <td><center><img src="https://i.imgur.com/jo243cO.gif" width="120%"></center></td>
     </tr>
     <tr>
-    <td><center><img src="https://i.imgur.com/WwfMpqA.gif" width="120%"></center></td>
-    <td><center><img src="https://i.imgur.com/7rdzMMJ.gif" width="120%"></center></td>
+    <td><center><img src="https://i.imgur.com/dOVo3lW.gif" width="120%"></center></td>
+    <td><center><img src="https://i.imgur.com/hpPzBKm.gif" width="120%"></center></td>
     </tr>
 </table>
 
