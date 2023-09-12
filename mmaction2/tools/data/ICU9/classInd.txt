@@ -1,0 +1,9 @@
+1 NormalGesture
+2 WrigglingBody
+3 SlappingFence
+4 ShakingHead
+5 GettingUp
+6 LiftingLeg
+7 KickingBedBoard
+8 PullingOutTubesInMouth
+9 PullingOutTubesOnBothHands
