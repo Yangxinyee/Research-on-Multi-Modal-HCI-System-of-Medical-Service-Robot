@@ -83,7 +83,8 @@ The basic principle is as follows: 5s is used as a fixed window Length (that is,
 </table>
 
 ***However, real-world data is more complex and noisy, requiring more efficient ways to deal with......***
-***The above images have been authorized by the parties.***
+
+***The above image has been authorized***
 
 
 
